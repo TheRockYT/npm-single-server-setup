@@ -1,3 +1,4 @@
+sudo dnf update
 sudo dnf remove docker \
                   docker-client \
                   docker-client-latest \
