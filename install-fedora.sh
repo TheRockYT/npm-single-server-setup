@@ -1,5 +1,5 @@
 #!/bin/bash
-sudo dnf update
+sudo dnf update -y
 sudo dnf remove docker \
                   docker-client \
                   docker-client-latest \
